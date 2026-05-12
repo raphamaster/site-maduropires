@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" fill="#0d0d0d"/>
+  <text x="32" y="22" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#c9a84c" text-anchor="middle" letter-spacing="1">M/P</text>
+  <line x1="12" y1="30" x2="52" y2="30" stroke="#c9a84c" stroke-width="0.8" opacity="0.6"/>
+  <text x="32" y="44" font-family="Georgia, serif" font-size="7" fill="#c9a84c" text-anchor="middle" letter-spacing="2" opacity="0.9">ADVOCACIA</text>
+</svg>
