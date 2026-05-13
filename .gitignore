@@ -1,0 +1,40 @@
+# Claude Code
+Claude.md
+.claude/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+*.Zone.Identifier
+
+# Editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# Dependências (caso adicione npm no futuro)
+node_modules/
+.npm/
+
+# Build outputs
+dist/
+build/
+.cache/
+
+# Variáveis de ambiente
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temporários
+*.tmp
+*.temp
